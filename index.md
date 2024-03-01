@@ -1,8 +1,6 @@
 AJ Manigque
 ===========
 
-85 Khalsa Street, Winnipeg MB, R2R0N4 • (204) 590-9493 • manigqua@myumanitoba.ca
-
 [github.com/ThreshvsGaming](https://github.com/ThreshvsGaming)
 
 **Work Experience**
