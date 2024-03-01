@@ -1,3 +1,8 @@
+---
+title: AJ's Resume
+---
+
+
 AJ Manigque
 ===========
 
