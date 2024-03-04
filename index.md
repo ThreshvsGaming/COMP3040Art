@@ -1,12 +1,5 @@
----
-title: AJ's Resume
----
 
-
-AJ Manigque
-===========
-
-[github.com/ThreshvsGaming](https://github.com/ThreshvsGaming)
+(Address) • (Phone Number) • manigqua@myumanitoba.ca • [github.com/ThreshvsGaming](https://github.com/ThreshvsGaming)
 
 **Work Experience**
 
