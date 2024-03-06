@@ -1,38 +1,78 @@
-# How to run Assignment 1 Questions 1-2 programs
-## Step 1
-Use the command
+# Host Your Resume Online
 
->make
+Host your own resume on a static site generator using Github Pages by following the steps below!
 
-This will compile all the .c files
+[Demo](https://threshvsgaming.github.io/COMP3040Art.github.io/)
 
-## Step 2
+![Demo](https://media1.tenor.com/m/VOdWjm2zbEAAAAAC/gandalf-sax-guy.gif)
 
-### For Question 1
+## Getting Started
 
-For question 1 type in the command
+### Prerequisites
 
->./a1q1 (ELF File name)
+You'll need the following things before we get started
 
-Insert any ELF File of your choosing.
+- A Github Account
+	+ If you haven't created an account already, navigate to [github]() to create a new account
 
-*Note: Make sure to only input 1 file name or else the program will dismiss the input and exit the program cleanly*
+- Download Github Desktop
+	+ Allows you to easily update your files and compare any changes you made
 
-### For Question 2
+- A Markdown text editor
+	+ You will need a text editor to create/update your resume
+	+ Some notable text editors are [Ghostwriter](https://ghostwriter.kde.org), [Visual Studio Code](https://code.visualstudio.com), and Notepad
 
-for running the process file program in the command
+- A resume created in markdown
+	+ For a guide to learn more about Markdown, see [More Resources](#more-resources)
+	
+### Instructions
 
->./a1-proc
+#### I. Setting up your Github Repository
 
-for running the thread file program in the command
+Andrew Etter highly discourages users to rely on PDFs because inevitably, their resume will be severely outdated as the user gains more experience. In contrast with websites, users will be able to continuously update their resumes anytime they want. Additionally, users will be able to reference their publish website to employers, which is always up-to-date. In this section, we will go over how to set up a Github Repository to host your static generated website.
 
->./a1-thread
+1. Navigate to [Github]()
+2. Login to your Github Account
+3. Navigate to this [repository]()
+4. Select the Fork button at the top right of the page
+	+ This allows us to create a copy of the repository mentioned in Step 3 so that we can use its template
+	
+5. Fill out the necessary information in the current page
+	+ Name your repository with the following format `(repository name).github.io`
+		* Ex. `Resume.github.io`
+		
+	+ Leave everything else default
+		
+6. Select the Settings tab at the top of the page
+7. Navigate to the Pages section on the left sidebar
+8. Choose Deploy from branch under Source
+9. Change none to main under Branch
+10. Select Save
 
-## Cleaning
-to clean all the compiled files type in the command
+#### II. Editing your Resume
 
->make clean
+Andrew Etter 
 
-*IMPORTANT: The config file that each program reads from must be named "config.txt". I have placed a config.txt for you to manually configure and test the 2 programs*
+1. 
 
-*NOTE: The Thread program can only create a max of 50 threads*
+
+### III. Uploading your Resume
+
+1. 
+
+
+## More Resources
+
+- If you wish to learn more about Markdown, visit [Markdown Tutorial](https://www.markdowntutorial.com)
+- 
+
+## Authors and Acknowledgements
+
+- [Cayman](https://github.com/pages-themes/cayman)
+
+
+## Frequently Asked Questions 
+
+### Why is Markdown better than a Word Processor
+
+### How do I update my resume
