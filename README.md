@@ -112,3 +112,7 @@ You have sucessfully merge your changes from your local computer to Github
 ### Why is Markdown better than a Word Processor
 
 Word Processors are horrible for creating documentation, which require frequent updates, depending on what changes were made that the documentation is referencing. With Markdown, we are able to showcase documents in any format we desire because of the simple syntaxes that markdown provides. For example, Github is able to present any README.md files immediatly below any git repositories allowing users to quickly know any information that the repository contains. Another example is your website we made, which reads are markdown file and presents it with the format we are using, which is Caymen Jekyll Template.
+
+### Why is my local repository not match my git repository from Github
+
+Sometimes, a change can be submited that didn't come form your local computer. For example, someone else might've made a change to the repository. To correct this, go to Github Desktop and select the repository you want to correct. At the top middle, press the `Fetch from origin`. Once it loads, press the `Pull from origin`. Once everything loads, your local repository should match your git repository in Github.
