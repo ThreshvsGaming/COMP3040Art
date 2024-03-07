@@ -74,12 +74,12 @@ Andrew Etter explains how lightweight markup languages allows anyone to be a con
 11. Select the `index.md`
 12. Put in your resume contents in this markdown file
 	+ Make sure the content is written in markdown if you wish to format your resume
-13. If you wish to preview your resume, right-click the index.md in your file explorer menu
-14. Save both 
+13. Save both 
+14. If you wish to preview your resume, right-click the index.md in your file explorer menu
 15. Select `Open Preview` to view your resume
 	+ *The format of your resume is based on Visual Studio Code's format. The format will change once your file changes are submitted into github*
 
-
+You are now able to edit your resume.
 
 #### III. Uploading/Updating your Resume
 
@@ -92,9 +92,10 @@ Andrew Etter encourages users to use version control systems to manage our files
 	+ Select add
 	+ Follow steps 5-7 in section II
 4. In the bottom left, fill in the text, which summerizes the changes you made in your local repository
-5. Press `Commit to main`
-6. 
+5. Press `Commit to main` in the bottom left
+6. Press `Push Origin` in the top middle
 
+You have sucessfully merge your changes from your local computer to Github
 
 ## More Resources
 
