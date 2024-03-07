@@ -73,7 +73,7 @@ We have sucessfully clone the repository from Github into your local computer.
 
 
 
-### III. Uploading your Resume
+#### III. Uploading/Updating your Resume
 
 Andrew Etter encourages users to use version control systems to manage our files. A version control systems like git allow us to track the changes we made in our content as well  have is a tracker that shows the history of the many changes
 
