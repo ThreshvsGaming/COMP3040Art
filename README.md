@@ -4,7 +4,7 @@ Host your own resume on a static site generator using Github Pages by following 
 
 [Demo](https://threshvsgaming.github.io/COMP3040Art.github.io/)
 
-![Demo](https://media1.tenor.com/m/VOdWjm2zbEAAAAAC/gandalf-sax-guy.gif)
+![Demo](app/opera_48tROMvPDM.gif)
 
 ## Getting Started
 
