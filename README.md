@@ -15,8 +15,9 @@ You'll need the following things before we get started
 - A Github Account
 	+ If you haven't created an account already, navigate to [github]() to create a new account
 
-- Download Github Desktop
-	+ Allows you to easily update your files and compare any changes you made
+- Github Desktop
+	+ We will be using Github Desktop to update your files and compare any changes you made
+	+ You can download Github Desktop [here]() 
 
 - A Markdown text editor
 	+ You will need a text editor to create/update your resume
