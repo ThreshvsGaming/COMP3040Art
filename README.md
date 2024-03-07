@@ -112,5 +112,3 @@ You have sucessfully merge your changes from your local computer to Github
 ### Why is Markdown better than a Word Processor
 
 Word Processors are horrible for creating documentation, which require frequent updates, depending on what changes were made that the documentation is referencing. With Markdown, we are able to showcase documents in any format we desire because of the simple syntaxes that markdown provides. For example, Github is able to present any README.md files immediatly below any git repositories allowing users to quickly know any information that the repository contains. Another example is your website we made, which reads are markdown file and presents it with the format we are using, which is Caymen Jekyll Template.
-
-### How do I update my resume
