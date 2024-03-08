@@ -55,11 +55,11 @@ Your repository is now ready to host your website!
 
 #### II. Editing your Resume
 
-Andrew Etter explains how lightweight markup languages allows anyone to be a contributer because it allows users to quickly write clean documentation using simple syntaxes to format the users contents. These simple syntaxes create readable information resulting in other people being able to contribute in the improvements of the documents as well as allow other forms of medium to format said documents however they like. In this section, we will use Github Desktop to make a copy of our repository in Github into our local computer and edit them using our Markdown Text Editor, Visual Studio Code.
+Andrew Etter explains how lightweight markup languages allows anyone to be a contributer because it allows users to quickly write clean documentation using simple syntaxes to format the users contents. These simple syntaxes create readable information resulting in other people being able to contribute in the improvements of the documents itself. In this section, we will use Github Desktop to make a copy of our repository in Github into our local computer and edit them using our Markdown Text Editor, Visual Studio Code.
 
 1. Open Github Desktop.
-2. Follow steps 3-5 if your Github Desktop is **not** sign in using your Github account.
-3. select the dropdown menu, `file`, on the top left.
+2. Follow steps 3-5 if your GitHub Desktop has not signed in using your GitHub account.
+3. Select the dropdown menu, `file`, on the top left.
 4. Select options.
 5. Press `Sign into Github.com` and sign in.
 6. Press `Clone a repository from the internet`.
@@ -67,16 +67,19 @@ Andrew Etter explains how lightweight markup languages allows anyone to be a con
 	+ Ex: `COMP3040Art.github.io`.
 8. Press `Clone`.
 9. Select the dropdown menu, `Repsoitory`, in the top left.
-10. press `Open in Visual Studio Code`.
+10. Press `Open in Visual Studio Code`.
 11. Select the `config.yml` in your File Explorer menu located to the left side.
-	+ Edit the `title: ` and `description: ` lines catered to your resume.
-		+ ***Do not edit `title: ` and `description: ` themselves. Only the content after those text***.
+	+ Edit the following lines catered to your resume.
+	```
+	title: (Your title)
+	description: (Your description)
+	```
 	+ Save the file once you are done.
 12. Select the `index.md`.
 13. Put in your resume contents in this markdown file.
 	+ Make sure the content is written in markdown if you wish to format your resume.
 14. Save `index.md`.
-15. If you wish to preview your resume, right-click the `index.md` file in your file explorer menu.
+15. Right-click the `index.md` file in your file explorer menu.
 16. Select `Open Preview` to view your resume.
 	+ *The format of your resume is based on Visual Studio Code's format. The format will change once your file changes are submitted into Github*.
 
@@ -86,10 +89,11 @@ Now that you are able to edit your resume, you are now ready to submit your chan
 
 Andrew Etter encourages users to use version control systems to manage our files. A version control system allow us to track the changes we made in our content as well as share it to anyone who wishes to use it. In this section, we will use Github and Github Desktop to manage our repository by merging any changes we made in our local repository to git repository, which is our repository located in Github.
 
-0. Do Section II, before you continue.
+0. Do Section II before you continue.
 	+ The following steps will not work until you made changes in your local repository.
 1. Open Github Desktop.
-2. In the bottom left, fill in the text, which summerizes the changes you made in your local repository.
+2. Fill in the text in the bottom left
+	+ This summarizes the changes you made in your local repository.
 3. Press `Commit to main` in the bottom left.
 4. Press `Push Origin` in the top middle.
 
