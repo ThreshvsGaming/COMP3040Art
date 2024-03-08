@@ -3,7 +3,7 @@
 
 ## **Work Experience**
 
-Junior Developer - Co-op Work Term 1 (G3 Canada Limited, Winnipeg, MB) Jan 2023 - April 2023
+### Junior Developer - Co-op Work Term 1 (G3 Canada Limited, Winnipeg, MB) Jan 2023 - April 2023
 
 *   Modified the framework for a REST API that returns specific Vessels so that it could be used to query and create reports for PowerBI
 *   Added FIXED Scripts which modifies records from existing tables based on the request of the Product Owners
