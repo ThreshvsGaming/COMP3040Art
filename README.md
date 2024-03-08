@@ -4,9 +4,9 @@
 
 In this README, you will learn to host your own resume on a static generated website using Github Pages by following the steps below!
 
-[Demo](https://threshvsgaming.github.io/COMP3040Art.github.io/)
+[Demo from the GIF below](https://threshvsgaming.github.io/COMP3040Art.github.io/)
 
-![Demo](app/opera_48tROMvPDM.gif)
+![Demo](https://github.com/ThreshvsGaming/COMP3040Art.github.io/blob/main/app/opera_48tROMvPDM.gif)
 
 ## Getting Started
 
